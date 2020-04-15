@@ -6,3 +6,5 @@ Los datos comenzaron a ser desagregados por provincia y cantón a partir de la [
 En el caso de los fallecidos, comienzan a desagregarse por provincias a partir de la [Infografia No. 024 COVID 19_25032020](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/03/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-26032020-10h00-1.pdf). 
 
 El cantón Puebloviejo de la provincia Los Ríos solo apareció con **1 caso** en la [Infografia No. 040 COVID 19_04042020](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/04/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-04042020-10h00.pdf). A partir de la misma no se muestra en los reportes y no se hace mención al motivo. 
+
+En la [Infografía No. 050 COVID 19_14042020](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/04/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-14042020-08h00.pdf) se reportan **4 casos** en la isla Santa Cruz, de Galápagos, sin embargo la [Infografía No. 051 COVID 19_15042020](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/04/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-15042020-08h00.pdf) reporta solo **3 casos**.
