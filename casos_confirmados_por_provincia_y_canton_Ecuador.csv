@@ -193,7 +193,7 @@
 8,Manabí,Chone,0,Costa,17/03/2020,08:00
 8,Santa Elena,Santa Elena,0,Costa,17/03/2020,08:00
 8,Santa Elena,La Libertad,0,Costa,17/03/2020,08:00
-8,Santa Elena,Salinas,0,Costa,17/03/2020,08:00
+8,Santa Elena,Salinas,3,Costa,17/03/2020,08:00
 8,Santo Domingo de los Tsáchilas,La Concordia,0,Costa,17/03/2020,08:00
 8,Santo Domingo de los Tsáchilas,Santo Domingo,0,Costa,17/03/2020,08:00
 8,Azuay,Cuenca,5,Sierra,17/03/2020,08:00
@@ -328,7 +328,7 @@
 9,Manabí,Chone,0,Costa,17/03/2020,09:00
 9,Santa Elena,Santa Elena,0,Costa,17/03/2020,09:00
 9,Santa Elena,La Libertad,0,Costa,17/03/2020,09:00
-9,Santa Elena,Salinas,0,Costa,17/03/2020,09:00
+9,Santa Elena,Salinas,3,Costa,17/03/2020,09:00
 9,Santo Domingo de los Tsáchilas,La Concordia,0,Costa,17/03/2020,09:00
 9,Santo Domingo de los Tsáchilas,Santo Domingo,0,Costa,17/03/2020,09:00
 9,Azuay,Cuenca,5,Sierra,17/03/2020,09:00
@@ -601,7 +601,7 @@
 11,Santa Elena,Salinas,0,Costa,18/03/2020,15:00
 11,Santo Domingo de los Tsáchilas,La Concordia,0,Costa,18/03/2020,15:00
 11,Santo Domingo de los Tsáchilas,Santo Domingo,0,Costa,18/03/2020,15:00
-11,Azuay,Cuenca,0,Sierra,18/03/2020,15:00
+11,Azuay,Cuenca,5,Sierra,18/03/2020,15:00
 11,Azuay,Gualaceo,0,Sierra,18/03/2020,15:00
 11,Azuay,Santa Isabel,0,Sierra,18/03/2020,15:00
 11,Azuay,Paute,0,Sierra,18/03/2020,15:00
@@ -1537,7 +1537,7 @@
 18,Manabí,Montecristi,1,Costa,22/03/2020,10:00
 18,Manabí,Portoviejo,4,Costa,22/03/2020,10:00
 18,Manabí,Santa Ana,0,Costa,22/03/2020,10:00
-18,Manabí,Sucre,0,Costa,22/03/2020,10:00
+18,Manabí,Sucre,1,Costa,22/03/2020,10:00
 18,Manabí,Jaramijó,0,Costa,22/03/2020,10:00
 18,Manabí,El Carmen,0,Costa,22/03/2020,10:00
 18,Manabí,Chone,0,Costa,22/03/2020,10:00
@@ -2164,7 +2164,7 @@
 23,El Oro,Machala,5,Costa,25/03/2020,17:00
 23,El Oro,Pasaje,0,Costa,25/03/2020,17:00
 23,El Oro,Santa Rosa,8,Costa,25/03/2020,17:00
-23,El Oro,Atahualpa,0,Costa,25/03/2020,17:00
+23,El Oro,Atahualpa,1,Costa,25/03/2020,17:00
 23,El Oro,Zaruma,0,Costa,25/03/2020,17:00
 23,El Oro,Piñas,0,Costa,25/03/2020,17:00
 23,El Oro,Portovelo,0,Costa,25/03/2020,17:00
@@ -2863,7 +2863,6 @@
 28,Guayas,Samborondón,129,Costa,28/03/2020,10:00
 28,Guayas,Santa Lucía,8,Costa,28/03/2020,10:00
 28,Guayas,Playas,8,Costa,28/03/2020,10:00
-28,Guayas,Simón Bolivar,9,Costa,28/03/2020,10:00
 28,Guayas,San Jacinto De Yaguachi,9,Costa,28/03/2020,10:00
 28,Guayas,El Triunfo,2,Costa,28/03/2020,10:00
 28,Guayas,Lomas De Sargentillo,0,Costa,28/03/2020,10:00
@@ -3560,7 +3559,7 @@
 33,Manabí,Jipijapa,1,Costa,30/03/2020,17:00
 33,Manabí,Manta,25,Costa,30/03/2020,17:00
 33,Manabí,Montecristi,2,Costa,30/03/2020,17:00
-33,Manabí,Portoviejo,1,Costa,30/03/2020,17:00
+33,Manabí,Portoviejo,18,Costa,30/03/2020,17:00
 33,Manabí,Santa Ana,1,Costa,30/03/2020,17:00
 33,Manabí,Sucre,1,Costa,30/03/2020,17:00
 33,Manabí,Jaramijó,1,Costa,30/03/2020,17:00
@@ -4778,6 +4777,7 @@
 42,Manabí,Manta,38,Costa,06/04/2020,10:00
 42,Manabí,Montecristi,2,Costa,06/04/2020,10:00
 42,Manabí,Portoviejo,31,Costa,06/04/2020,10:00
+42,Manabí,Rocafuerte,1,Costa,06/04/2020,10:00
 42,Manabí,Santa Ana,1,Costa,06/04/2020,10:00
 42,Manabí,Sucre,1,Costa,06/04/2020,10:00
 42,Manabí,Jaramijó,2,Costa,06/04/2020,10:00
@@ -4913,6 +4913,7 @@
 43,Manabí,Manta,40,Costa,07/04/2020,17:00
 43,Manabí,Montecristi,2,Costa,07/04/2020,17:00
 43,Manabí,Portoviejo,40,Costa,07/04/2020,17:00
+43,Manabí,Rocafuerte,2,Costa,07/04/2020,17:00
 43,Manabí,Santa Ana,1,Costa,07/04/2020,17:00
 43,Manabí,Sucre,1,Costa,07/04/2020,17:00
 43,Manabí,Jaramijó,2,Costa,07/04/2020,17:00
@@ -5052,6 +5053,7 @@
 44,Manabí,Manta,42,Costa,08/04/2020,07:00
 44,Manabí,Montecristi,2,Costa,08/04/2020,07:00
 44,Manabí,Portoviejo,50,Costa,08/04/2020,07:00
+44,Manabí,Rocafuerte,2,Costa,08/04/2020,07:00
 44,Manabí,Santa Ana,2,Costa,08/04/2020,07:00
 44,Manabí,Sucre,1,Costa,08/04/2020,07:00
 44,Manabí,Jaramijó,2,Costa,08/04/2020,07:00
@@ -6247,6 +6249,171 @@
 51,Sucumbíos,Shushufindi,1,Amazonía,15/04/2020,08:00
 51,Zamora Chinchipe,Yantzaza,2,Amazonía,15/04/2020,08:00
 51,Zamora Chinchipe,Zamora,3,Amazonía,15/04/2020,08:00
+52,El Oro,Arenillas,6,Costa,16/04/2020,08:00
+52,El Oro,Huaquillas,10,Costa,16/04/2020,08:00
+52,El Oro,Machala,91,Costa,16/04/2020,08:00
+52,El Oro,Pasaje,13,Costa,16/04/2020,08:00
+52,El Oro,Santa Rosa,44,Costa,16/04/2020,08:00
+52,El Oro,Atahualpa,2,Costa,16/04/2020,08:00
+52,El Oro,Zaruma,2,Costa,16/04/2020,08:00
+52,El Oro,Piñas,5,Costa,16/04/2020,08:00
+52,El Oro,Portovelo,8,Costa,16/04/2020,08:00
+52,El Oro,El Guabo,11,Costa,16/04/2020,08:00
+52,El Oro,Las Lajas,1,Costa,16/04/2020,08:00
+52,Esmeraldas,Esmeraldas,37,Costa,16/04/2020,08:00
+52,Esmeraldas,Quinindé,9,Costa,16/04/2020,08:00
+52,Esmeraldas,Rioverde,1,Costa,16/04/2020,08:00
+52,Esmeraldas,Atacames,3,Costa,16/04/2020,08:00
+52,Esmeraldas,Muisne,1,Costa,16/04/2020,08:00
+52,Esmeraldas,San Lorenzo,1,Costa,16/04/2020,08:00
+52,Esmeraldas,Eloy Alfaro,1,Costa,16/04/2020,08:00
+52,Guayas,Alfredo Baquerizo Moreno,4,Costa,16/04/2020,08:00
+52,Guayas,Balao,4,Costa,16/04/2020,08:00
+52,Guayas,Balzar,16,Costa,16/04/2020,08:00
+52,Guayas,Colimes,8,Costa,16/04/2020,08:00
+52,Guayas,Daule,266,Costa,16/04/2020,08:00
+52,Guayas,Durán,218,Costa,16/04/2020,08:00
+52,Guayas,Empalme,29,Costa,16/04/2020,08:00
+52,Guayas,Guayaquil,4353,Costa,16/04/2020,08:00
+52,Guayas,Milagro,263,Costa,16/04/2020,08:00
+52,Guayas,Naranjal,25,Costa,16/04/2020,08:00
+52,Guayas,Pedro Carbó,31,Costa,16/04/2020,08:00
+52,Guayas,Salitre,54,Costa,16/04/2020,08:00
+52,Guayas,Samborondón,360,Costa,16/04/2020,08:00
+52,Guayas,Santa Lucía,19,Costa,16/04/2020,08:00
+52,Guayas,Playas,35,Costa,16/04/2020,08:00
+52,Guayas,Simón Bolivar,2,Costa,16/04/2020,08:00
+52,Guayas,San Jacinto De Yaguachi,28,Costa,16/04/2020,08:00
+52,Guayas,Palestina,3,Costa,16/04/2020,08:00
+52,Guayas,El Triunfo,12,Costa,16/04/2020,08:00
+52,Guayas,Lomas De Sargentillo,3,Costa,16/04/2020,08:00
+52,Guayas,Naranjito,8,Costa,16/04/2020,08:00
+52,Guayas,Crnel. Marcelino Maridueña,1,Costa,16/04/2020,08:00
+52,Guayas,Nobol,3,Costa,16/04/2020,08:00
+52,Guayas,Gral. Antonio Elizalde,5,Costa,16/04/2020,08:00
+52,Guayas,Isidro Ayora,4,Costa,16/04/2020,08:00
+52,Los Ríos,Baba,6,Costa,16/04/2020,08:00
+52,Los Ríos,Babahoyo,120,Costa,16/04/2020,08:00
+52,Los Ríos,Buena Fe,9,Costa,16/04/2020,08:00
+52,Los Ríos,Mocache,1,Costa,16/04/2020,08:00
+52,Los Ríos,Montalvo,6,Costa,16/04/2020,08:00
+52,Los Ríos,Palenque,4,Costa,16/04/2020,08:00
+52,Los Ríos,Puebloviejo,1,Costa,16/04/2020,08:00
+52,Los Ríos,Quevedo,71,Costa,16/04/2020,08:00
+52,Los Ríos,Urdaneta,7,Costa,16/04/2020,08:00
+52,Los Ríos,Ventanas,24,Costa,16/04/2020,08:00
+52,Los Ríos,Vinces,19,Costa,16/04/2020,08:00
+52,Los Ríos,Quinsaloma,1,Costa,16/04/2020,08:00
+52,Los Ríos,Valencia,5,Costa,16/04/2020,08:00
+52,Manabí,24 de mayo,4,Costa,16/04/2020,08:00
+52,Manabí,Bolivar,3,Costa,16/04/2020,08:00
+52,Manabí,Jipijapa,14,Costa,16/04/2020,08:00
+52,Manabí,Manta,63,Costa,16/04/2020,08:00
+52,Manabí,Montecristi,6,Costa,16/04/2020,08:00
+52,Manabí,Portoviejo,87,Costa,16/04/2020,08:00
+52,Manabí,Rocafuerte,4,Costa,16/04/2020,08:00
+52,Manabí,Santa Ana,7,Costa,16/04/2020,08:00
+52,Manabí,Sucre,2,Costa,16/04/2020,08:00
+52,Manabí,Paján,6,Costa,16/04/2020,08:00
+52,Manabí,Jaramijó,3,Costa,16/04/2020,08:00
+52,Manabí,Junín,2,Costa,16/04/2020,08:00
+52,Manabí,El Carmen,15,Costa,16/04/2020,08:00
+52,Manabí,Pichincha,2,Costa,16/04/2020,08:00
+52,Manabí,Chone,22,Costa,16/04/2020,08:00
+52,Manabí,Flavio Alfaro,1,Costa,16/04/2020,08:00
+52,Manabí,Tosagua,2,Costa,16/04/2020,08:00
+52,Manabí,San Vicente,1,Costa,16/04/2020,08:00
+52,Santa Elena,Santa Elena,44,Costa,16/04/2020,08:00
+52,Santa Elena,La Libertad,33,Costa,16/04/2020,08:00
+52,Santa Elena,Salinas,18,Costa,16/04/2020,08:00
+52,Santo Domingo de los Tsáchilas,La Concordia,12,Costa,16/04/2020,08:00
+52,Santo Domingo de los Tsáchilas,Santo Domingo,56,Costa,16/04/2020,08:00
+52,Azuay,Cuenca,181,Sierra,16/04/2020,08:00
+52,Azuay,Gualaceo,5,Sierra,16/04/2020,08:00
+52,Azuay,Santa Isabel,5,Sierra,16/04/2020,08:00
+52,Azuay,Nabón,1,Sierra,16/04/2020,08:00
+52,Azuay,Paute,5,Sierra,16/04/2020,08:00
+52,Azuay,Sigsig,4,Sierra,16/04/2020,08:00
+52,Azuay,Sevilla De Oro,2,Sierra,16/04/2020,08:00
+52,Azuay,Guachapala,2,Sierra,16/04/2020,08:00
+52,Bolívar,Chillanes,7,Sierra,16/04/2020,08:00
+52,Bolívar,Chimbo,4,Sierra,16/04/2020,08:00
+52,Bolívar,Guaranda,19,Sierra,16/04/2020,08:00
+52,Bolívar,San Miguel,2,Sierra,16/04/2020,08:00
+52,Bolívar,Echeandía,4,Sierra,16/04/2020,08:00
+52,Bolívar,Caluma,2,Sierra,16/04/2020,08:00
+52,Bolívar,Las Naves,1,Sierra,16/04/2020,08:00
+52,Cañar,Azogues,23,Sierra,16/04/2020,08:00
+52,Cañar,Cañar,12,Sierra,16/04/2020,08:00
+52,Cañar,Deleg,1,Sierra,16/04/2020,08:00
+52,Cañar,La Troncal,62,Sierra,16/04/2020,08:00
+52,Cañar,El Tambo,10,Sierra,16/04/2020,08:00
+52,Cañar,Biblián,7,Sierra,16/04/2020,08:00
+52,Cañar,Suscal,2,Sierra,16/04/2020,08:00
+52,Carchi,Bolívar,3,Sierra,16/04/2020,08:00
+52,Carchi,Tulcán,14,Sierra,16/04/2020,08:00
+52,Carchi,Montúfar,3,Sierra,16/04/2020,08:00
+52,Carchi,Mira,1,Sierra,16/04/2020,08:00
+52,Carchi,San Pedro De Huaca,5,Sierra,16/04/2020,08:00
+52,Chimborazo,Colta,23,Sierra,16/04/2020,08:00
+52,Chimborazo,Riobamba,55,Sierra,16/04/2020,08:00
+52,Chimborazo,Cumandá,2,Sierra,16/04/2020,08:00
+52,Chimborazo,Guano,6,Sierra,16/04/2020,08:00
+52,Chimborazo,Chambo,2,Sierra,16/04/2020,08:00
+52,Chimborazo,Guamote,4,Sierra,16/04/2020,08:00
+52,Chimborazo,Alausí,3,Sierra,16/04/2020,08:00
+52,Chimborazo,Pallatanga,3,Sierra,16/04/2020,08:00
+52,Chimborazo,Penipe,1,Sierra,16/04/2020,08:00
+52,Cotopaxi,Pangua,1,Sierra,16/04/2020,08:00
+52,Cotopaxi,Pujilí,5,Sierra,16/04/2020,08:00
+52,Cotopaxi,Salcedo,2,Sierra,16/04/2020,08:00
+52,Cotopaxi,La Maná,5,Sierra,16/04/2020,08:00
+52,Cotopaxi,Latacunga,30,Sierra,16/04/2020,08:00
+52,Cotopaxi,Sigchos,2,Sierra,16/04/2020,08:00
+52,Cotopaxi,Saquisilí,1,Sierra,16/04/2020,08:00
+52,Imbabura,Ibarra,27,Sierra,16/04/2020,08:00
+52,Imbabura,Otavalo,3,Sierra,16/04/2020,08:00
+52,Imbabura,Cotacachi,2,Sierra,16/04/2020,08:00
+52,Imbabura,Antonio Ante,3,Sierra,16/04/2020,08:00
+52,Loja,Calvas,4,Sierra,16/04/2020,08:00
+52,Loja,Loja,62,Sierra,16/04/2020,08:00
+52,Loja,Macará,2,Sierra,16/04/2020,08:00
+52,Loja,Catamayo,14,Sierra,16/04/2020,08:00
+52,Loja,Chaguarpamba,3,Sierra,16/04/2020,08:00
+52,Loja,Zapotillo,1,Sierra,16/04/2020,08:00
+52,Pichincha,Mejía,22,Sierra,16/04/2020,08:00
+52,Pichincha,Pedro Vicente Maldonado,3,Sierra,16/04/2020,08:00
+52,Pichincha,Quito,682,Sierra,16/04/2020,08:00
+52,Pichincha,Rumiñahui,26,Sierra,16/04/2020,08:00
+52,Pichincha,Pedro Moncayo,2,Sierra,16/04/2020,08:00
+52,Pichincha,Cayambe,1,Sierra,16/04/2020,08:00
+52,Tungurahua,Ambato,42,Sierra,16/04/2020,08:00
+52,Tungurahua,San Pedro De Pelileo,8,Sierra,16/04/2020,08:00
+52,Tungurahua,Quero,1,Sierra,16/04/2020,08:00
+52,Tungurahua,Cevallos,1,Sierra,16/04/2020,08:00
+52,Tungurahua,Tisaleo,1,Sierra,16/04/2020,08:00
+52,Galápagos,San Cristóbal,7,Insular,16/04/2020,08:00
+52,Galápagos,Isabela,1,Insular,16/04/2020,08:00
+52,Galápagos,Santa Cruz,3,Insular,16/04/2020,08:00
+52,Morona Santiago,Gualaquiza,1,Amazonía,16/04/2020,08:00
+52,Morona Santiago,Morona,4,Amazonía,16/04/2020,08:00
+52,Morona Santiago,Sucúa,3,Amazonía,16/04/2020,08:00
+52,Morona Santiago,Palora,10,Amazonía,16/04/2020,08:00
+52,Morona Santiago,Taisha,1,Amazonía,16/04/2020,08:00
+52,Morona Santiago,Tiwintza,1,Amazonía,16/04/2020,08:00
+52,Morona Santiago,Pablo Sexto,1,Amazonía,16/04/2020,08:00
+52,Napo,Tena,8,Amazonía,16/04/2020,08:00
+52,Orellana,Orellana,5,Amazonía,16/04/2020,08:00
+52,Orellana,La Joya De Los Sachas,1,Amazonía,16/04/2020,08:00
+52,Orellana,Loreto,1,Amazonía,16/04/2020,08:00
+52,Pastaza,Pastaza,15,Amazonía,16/04/2020,08:00
+52,Pastaza,Mera,1,Amazonía,16/04/2020,08:00
+52,Pastaza,Santa Clara,1,Amazonía,16/04/2020,08:00
+52,Sucumbíos,Cuyabeno,3,Amazonía,16/04/2020,08:00
+52,Sucumbíos,Lago Agrio,29,Amazonía,16/04/2020,08:00
+52,Sucumbíos,Shushufindi,1,Amazonía,16/04/2020,08:00
+52,Zamora Chinchipe,Yantzaza,2,Amazonía,16/04/2020,08:00
+52,Zamora Chinchipe,Zamora,3,Amazonía,16/04/2020,08:00
 7,Chimborazo,Alausí,0,Sierra,16/03/2020,16:00
 8,Chimborazo,Alausí,0,Sierra,17/03/2020,08:00
 9,Chimborazo,Alausí,0,Sierra,17/03/2020,09:00
@@ -7137,9 +7304,6 @@
 39,Manabí,Rocafuerte,0,Costa,03/04/2020,10:00
 40,Manabí,Rocafuerte,0,Costa,04/04/2020,10:00
 41,Manabí,Rocafuerte,0,Costa,05/04/2020,10:00
-42,Manabí,Rocafuerte,0,Costa,06/04/2020,10:00
-43,Manabí,Rocafuerte,0,Costa,07/04/2020,17:00
-44,Manabí,Rocafuerte,0,Costa,08/04/2020,07:00
 7,Esmeraldas,San Lorenzo,0,Costa,16/03/2020,16:00
 8,Esmeraldas,San Lorenzo,0,Costa,17/03/2020,08:00
 9,Esmeraldas,San Lorenzo,0,Costa,17/03/2020,09:00
@@ -7217,6 +7381,53 @@
 44,Manabí,San Vicente,0,Costa,08/04/2020,07:00
 45,Manabí,San Vicente,0,Costa,09/04/2020,07:00
 46,Manabí,San Vicente,0,Costa,10/04/2020,07:00
+7,Pastaza,Santa Clara,0,Amazonía,16/03/2020,16:00
+8,Pastaza,Santa Clara,0,Amazonía,17/03/2020,08:00
+9,Pastaza,Santa Clara,0,Amazonía,17/03/2020,09:00
+10,Pastaza,Santa Clara,0,Amazonía,18/03/2020,05:00
+11,Pastaza,Santa Clara,0,Amazonía,18/03/2020,15:00
+12,Pastaza,Santa Clara,0,Amazonía,19/03/2020,08:00
+13,Pastaza,Santa Clara,0,Amazonía,19/03/2020,16:00
+14,Pastaza,Santa Clara,0,Amazonía,20/03/2020,10:00
+15,Pastaza,Santa Clara,0,Amazonía,20/03/2020,16:00
+16,Pastaza,Santa Clara,0,Amazonía,21/03/2020,10:00
+17,Pastaza,Santa Clara,0,Amazonía,21/03/2020,17:00
+18,Pastaza,Santa Clara,0,Amazonía,22/03/2020,10:00
+19,Pastaza,Santa Clara,0,Amazonía,23/03/2020,10:00
+20,Pastaza,Santa Clara,0,Amazonía,24/03/2020,10:00
+21,Pastaza,Santa Clara,0,Amazonía,24/03/2020,17:00
+22,Pastaza,Santa Clara,0,Amazonía,25/03/2020,10:00
+23,Pastaza,Santa Clara,0,Amazonía,25/03/2020,17:00
+24,Pastaza,Santa Clara,0,Amazonía,26/03/2020,10:00
+25,Pastaza,Santa Clara,0,Amazonía,26/03/2020,17:00
+26,Pastaza,Santa Clara,0,Amazonía,27/03/2020,17:00
+27,Pastaza,Santa Clara,0,Amazonía,27/03/2020,17:00
+28,Pastaza,Santa Clara,0,Amazonía,28/03/2020,10:00
+29,Pastaza,Santa Clara,0,Amazonía,28/03/2020,17:00
+30,Pastaza,Santa Clara,0,Amazonía,29/03/2020,10:00
+31,Pastaza,Santa Clara,0,Amazonía,29/03/2020,17:00
+32,Pastaza,Santa Clara,0,Amazonía,30/03/2020,10:00
+33,Pastaza,Santa Clara,0,Amazonía,30/03/2020,17:00
+34,Pastaza,Santa Clara,0,Amazonía,31/03/2020,10:00
+35,Pastaza,Santa Clara,0,Amazonía,31/03/2020,17:00
+36,Pastaza,Santa Clara,0,Amazonía,01/04/2020,17:00
+37,Pastaza,Santa Clara,0,Amazonía,01/04/2020,10:00
+38,Pastaza,Santa Clara,0,Amazonía,02/04/2020,10:00
+39,Pastaza,Santa Clara,0,Amazonía,03/04/2020,10:00
+40,Pastaza,Santa Clara,0,Amazonía,04/04/2020,10:00
+41,Pastaza,Santa Clara,0,Amazonía,05/04/2020,10:00
+42,Pastaza,Santa Clara,0,Amazonía,06/04/2020,10:00
+43,Pastaza,Santa Clara,0,Amazonía,07/04/2020,17:00
+44,Pastaza,Santa Clara,0,Amazonía,08/04/2020,07:00
+45,Pastaza,Santa Clara,0,Amazonía,09/04/2020,07:00
+46,Pastaza,Santa Clara,0,Amazonía,10/04/2020,07:00
+47,Pastaza,Santa Clara,0,Amazonía,11/04/2020,07:00
+48,Pastaza,Santa Clara,0,Amazonía,12/04/2020,08:00
+49,Pastaza,Santa Clara,0,Amazonía,13/04/2020,08:00
+50,Pastaza,Santa Clara,0,Amazonía,14/04/2020,08:00
+51,Pastaza,Santa Clara,0,Amazonía,15/04/2020,08:00
+7,Guayas,Simón Bolivar,0,Costa,16/03/2020,16:00
+6,NA,Simón Bolivar,0,NA,NA,NA
 7,Tungurahua,Tisaleo,0,Sierra,16/03/2020,16:00
 8,Tungurahua,Tisaleo,0,Sierra,17/03/2020,08:00
 9,Tungurahua,Tisaleo,0,Sierra,17/03/2020,09:00
