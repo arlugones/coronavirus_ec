@@ -14,3 +14,17 @@ Se detectaron varias inconsistencias después de validar los casos confirmados: 
 El cantón Lago Agrio, provincia de Sucumbíos reporta **30 casos** confirmados en la infografía [46](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/04/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-10042020-07h00.pdf), sin embargo a partir de la siguiente, [Infografía 47](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/04/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-11042020-07h00.pdf) reporta **29 casos**.
 
 La provincia de Los Ríos reporta **14 fallecidos** en la infografía [47](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/04/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-11042020-07h00.pdf). A partir de la infografía [48](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/04/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-12042020-08h00.pdf) solamente se reportan **13 fallecidos**. 
+
+La siguiente tabla muestra errores en el registro de la información de **fallecidos** en la provincia de Guayas.
+
+| Provincia/Infografía | 62  | 63  | 64  | 65  |
+|----------------------|-----|-----|-----|-----|
+| Guayas               | 433 | 378 | 380 | 514 |
+
+A partir de la [infografía 63](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/04/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-29042020-08h00.pdf) las cifras de **casos confirmados totales** no coinciden con las reportadas por provincia.
+
+| Confirmados/Infografía | 63    | 64    | 65    |
+|------------------------|-------|-------|-------|
+| Total general          | 16145 | 16404 | 17806 |
+| Total reportado        | 24675 | 24934 | 26336 |
+
