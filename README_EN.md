@@ -16,3 +16,17 @@ Several inconsistencies have been found upon validation of confirmed cases: cant
 Canton Lago Agrio, from the Sucumbíos province shows **30 cases** on infographic [46](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/04/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-10042020-07h00.pdf). After infographic [47](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/04/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-11042020-07h00.pdf) **29 cases** were reported.
 
 Los Ríos province reports **14 deceased** people on infographic [47](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/04/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-11042020-07h00.pdf). From infographic [48](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/04/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-12042020-08h00.pdf) and on, there are only **13 deceased** reported.
+
+The following table shows errors on the recording of **deceased** cases at the Guayas province.
+
+| Province/Infographic | 62  | 63  | 64  | 65  |
+|----------------------|-----|-----|-----|-----|
+| Guayas               | 433 | 378 | 380 | 514 |
+
+Starting from [infographic 63](https://www.gestionderiesgos.gob.ec/wp-content/uploads/2020/04/INFOGRAFIA-NACIONALCOVI-19-COE-NACIONAL-29042020-08h00.pdf) the **total confirmed cases**
+differs from those reported by provinces.
+
+| Confirmed/Infographic  | 63    | 64    | 65    |
+|------------------------|-------|-------|-------|
+| Total cases            | 16145 | 16404 | 17806 |
+| Reported total         | 24675 | 24934 | 26336 |
